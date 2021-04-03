@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/service/demo/Hello.java=UTF-8
+encoding//src/service/demo/HelloServiceImpl.java=UTF-8
+encoding//src/service/server/HelloServiceServer.java=UTF-8
